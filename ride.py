@@ -9,7 +9,7 @@ fout = open ('ride.out', 'w')
 
 g = fin.readline()
 u = fin.readline()
-
+#test
 value_g = 1
 value_u = 1
 for x in g:
